@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kshiti Sneh Rai</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="https://therundhati.github.io/index.html">Welcome to my Webpage :)</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="https://therundhati.github.io/index.html">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://therundhati.github.io/page2.html">About me</a>
+          </li>
+		  <li class="nav-item">
+            <a class="nav-link" href="https://therundhati.github.io/page3.html">Projects & Internships</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <section>
+      <div class="jumbotron text-center mt-2">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+			<img alt="" src="images/me.jpeg" style="width:170px;height:250px;"/>
+			<div class="typewriter">
+              <h1 style="font-size:60px"> Hello, I'm Kshiti Sneh Rai!</h1>
+			</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h2>Thanks for dropping by</h2>
+            <p>I am Kshiti baby!</p>
+        </div>
+      </div>
+    </section>
+    <hr>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 col-12">
+            <h3 class="text-center">Your thoughts matter to me</h3>
+            <p>Drop a mail or message sharing your suggestions and feedback, or to explore a possible collaboration. Thanks for your time!</p>
+          </div>
+          <div class="col-md-4 col-12">
+            <h3 class="text-center">Get in touch</h3>
+            <address class="text-center">
+              <strong>Arundhati Dixit</strong><br>
+              House number 805, Sector 45,<br>
+              Gurgaon, India 122003<br>
+              <abbr title="Phone">P:</abbr> (+91) 9958 489025<br>
+			  arundhatidixit30@gmail.com
+            </address>
+          </div>
+          <div class="col-md-4 col-12">
+            <h3 class="text-center">Additional Links</h3>
+            <form>
+              <div class="social-icons">
+				<a href="https://www.linkedin.com/in/arundhati-dixit-19980330/"><img src="images/in.png" style="width:60px;height:60px;" alt="#" /></a>
+				<a href="https://www.facebook.com/arundhati.dixit.30"><img src="images/fb.png" style="width:60px;height:60px;" alt="#" /></a>
+				<a href="https://www.instagram.com/therundhati/"><img src="images/ig.png" style="width:62px;height:62px;" alt="#" /></a>
+				<a href="https://github.com/therundhati"><img src="images/github.png" style="width:62px;height:62px;" alt="#" /></a>
+				<a href="https://www.instagram.com/syrup.n.spice/"><img src="images/syrupnspice.jpeg" style="width:62px;height:62px;" alt="#" /></a>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>© Kshiti Sneh Rai</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
